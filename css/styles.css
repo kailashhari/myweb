@@ -1,0 +1,105 @@
+#home-body {
+    font-family: 'Product Sans';
+    background-image: url(../images/jsdot.png),linear-gradient(to bottom right, #FD00A0, #7000DF);
+    background-blend-mode:screen, normal ;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    color: white;
+    position: relative;
+}
+
+
+
+#main-content {
+    width: 100%;
+    padding: 3em 12em;
+    z-index: 2;
+    margin: 0;
+}
+
+#logo-main {
+    font-size: 32px;
+    float: left;
+    
+}
+
+.nav-link {
+    font-size: 22px;
+    color: white;
+}
+
+.nav-link:hover {
+    color: rgb(0, 0, 0);
+    
+}
+
+#box-one {
+    padding: 120px 0 120px 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#welcome {
+    font-size: 80px;
+    line-height: 80px;
+    text-shadow: 16px 16px 40px black;
+}
+
+#i-do {
+    font-size: 28px;
+    line-height: 80px;
+    text-shadow: 16px 16px 40px black;
+}
+
+#separator {
+    height: 340px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#line-one {
+    font-size: 50px;
+    text-shadow: 16px 16px 40px black;
+}
+
+#line-two {
+    font-size: 45px;
+    text-shadow: 16px 16px 40px black;
+}
+
+#q-mark {
+    position: absolute;
+    margin-left: -120px;
+    margin-top: -20px;
+}
+
+#msg-btn {
+    padding-top: 50px;
+    margin-left: auto;
+    margin-right: auto;    
+    z-index: 5;
+}
+
+#msg {
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+#inst-logo {
+    height: 20px;
+    width: auto;
+    margin-left: 10px;
+}
+
+#footer-home {
+    font-size: 20px;
+}
+
+#bgm {
+    background-color: black;
+    padding: 4px;
+}
